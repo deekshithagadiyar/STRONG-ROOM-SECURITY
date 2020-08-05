@@ -33,3 +33,7 @@ go to arduino(IDE)-click on sketch-click on include library-click on manage libr
 Tinkercad link:
 
 https://www.tinkercad.com/things/6eZ1hsx1Pyl-strongroomsecurity/editel?sharecode=6RiLimGe0ZqUQiwwKi2aHTcVUZdRCzXbJZouaJNDZ_g
+
+Google classroom work:
+
+https://www.tinkercad.com/things/lqj6awP400x-neat-bombul/editel?sharecode=4aam_B157ldUhPh8zuzf3tYt0FTIjqMyLE23oEOa5Hk
